@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-  <br> SEP
+  <br> Sistemas Embarcados E Prototipação
 </h1>
 
 <p align="center">
